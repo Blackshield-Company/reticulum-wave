@@ -1,3 +1,5 @@
+![reticulum-wave](.github/preview.png)
+
 # 📡 Reticulum Wave
 
 > Cross-platform encrypted mesh messaging client for Reticulum/LXMF
